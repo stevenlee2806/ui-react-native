@@ -1,6 +1,7 @@
 import React from 'react';
 import styled from 'styled-components/native';
-import {convertHeight, convertWidth} from 'utils/convertSize';
+import { convertHeight, convertWidth } from '../convertSize';
+
 
 export interface LabelProps {
   flex?: any;

@@ -1,14 +1,14 @@
 {
     "name": "ui-react-native",
-    "version": "1.0.0",
-    "description": "NMB UI React Native",
+    "version": "1.0.2",
+    "description": "React Native NMB UI",
     "main": "index.ts",
     "scripts": {
       "test": "echo \"Error: no test specified\" && exit 1"
     },
     "repository": {
       "type": "git",
-      "url": "git+https://github.com/KPS250/React-Native-FlatList-Slider.git"
+      "url": "git+https://github.com/stevenlee2806/ui-react-native.git "
     },
     "keywords": [
       "NMB",
@@ -17,7 +17,10 @@
       "react-native",
       "react-component"
     ],
-    "author": "Steven Lee",
-    "license": "MIT"
-    
+    "author": "Steven Lee (steven.lee2806@gmail.com)",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/stevenlee2806/ui-react-native/issues"
+      },
+      "homepage": "https://github.com/stevenlee2806/ui-react-native#readme"
   }
